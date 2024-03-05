@@ -1,0 +1,21 @@
+BasedOnStyle: Chromium
+Language: Cpp
+Standard: Cpp11
+
+ColumnLimit: 90
+IndentWidth: 4
+
+SpacesBeforeTrailingComments: 4
+ConstructorInitializerIndentWidth: 4
+AccessModifierOffset: -2
+
+AlwaysBreakBeforeMultilineStrings: false
+
+BinPackArguments: false
+BinPackParameters: false
+
+IndentPPDirectives: AfterHash
+UseTab: Never
+AllowShortIfStatementsOnASingleLine: false
+
+ContinuationIndentWidth: 8
